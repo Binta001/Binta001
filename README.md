@@ -16,3 +16,5 @@ Here are some ideas to get you started:
  hi this a test case
 -->
 inew commit 
+changes to this file 
+this is a new commit
