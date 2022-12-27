@@ -9,7 +9,7 @@ pipeline {
         }
         stage('bye') {
             steps {
-                cho 'bye World'
+                echo 'bye World'
             }
         }
         stage('seeya') {
